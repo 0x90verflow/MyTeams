@@ -1,2 +1,2 @@
 # MyTeams
-Serveur de messagerie en ligne écris en C.
+Mini TP de création de serveur de messagerie en ligne écris en C.
